@@ -1,0 +1,29 @@
+.names{
+    text-align: left;
+    padding: 1rem 1rem;
+    min-height: 40vh;
+}
+
+.email{
+    text-align: left;
+    padding: 1rem 1rem;
+    min-height: 40vh;
+}
+
+.criado{
+    text-align: left;
+    padding: 1rem 1rem;
+    min-height: 40vh;
+}
+
+.edit-User-button{
+    text-align: right;
+    padding: 1rem 1rem;
+    min-height: 4vh;
+}
+
+.remove-User-button{
+    text-align: right;
+    padding: 1rem 1rem;
+    min-height: 4vh;
+}
